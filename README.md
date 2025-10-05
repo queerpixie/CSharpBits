@@ -1,10 +1,7 @@
-# CSharpBits
-
+![Header](./github-header-banner.png)
 This repository contains a collection of C# programs that I used for practice when learning C#.
 
 Please note that pull requests will not be accepted for this repository. This is simply a public copy of my progress and learning journey.
-
-\- queerpixie (uwu :3)
 
 ---
 
