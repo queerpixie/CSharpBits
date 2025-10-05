@@ -1,0 +1,15 @@
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.AssemblyInfoInputs.cache
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.AssemblyInfo.cs
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.csproj.CoreCompileInputs.cache
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.sourcelink.json
+D:\Code\Git\CSharpBits\Projects\numbergame\bin\Debug\net8.0\numbergame.exe
+D:\Code\Git\CSharpBits\Projects\numbergame\bin\Debug\net8.0\numbergame.deps.json
+D:\Code\Git\CSharpBits\Projects\numbergame\bin\Debug\net8.0\numbergame.runtimeconfig.json
+D:\Code\Git\CSharpBits\Projects\numbergame\bin\Debug\net8.0\numbergame.dll
+D:\Code\Git\CSharpBits\Projects\numbergame\bin\Debug\net8.0\numbergame.pdb
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.dll
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\refint\numbergame.dll
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.pdb
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\numbergame.genruntimeconfig.cache
+D:\Code\Git\CSharpBits\Projects\numbergame\obj\Debug\net8.0\ref\numbergame.dll
