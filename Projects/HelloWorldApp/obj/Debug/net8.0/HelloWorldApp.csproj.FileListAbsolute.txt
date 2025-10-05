@@ -1,0 +1,14 @@
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+D:\Code\Git\CSharpBits\Projects\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
